@@ -9,7 +9,7 @@
            
     </head>
     
-    <body style="background-image:url('geometric-leaves.png'); background-color:#583c34; background-position:center;">
+    <body style="background-image:url('geometric-leaves.png'); background-color:#b0b090; background-position:center;">
 
 <header>
 <h1 style="text-align:center;">Rolling Hills Coffee Co.</h1>
